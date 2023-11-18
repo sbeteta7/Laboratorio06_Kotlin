@@ -1,8 +1,9 @@
-package com.sebastian.beteta.poketinder_beteta4c24
+package com.sebastian.beteta.poketinder_beteta4c24.util
 
 import android.content.Context
 import android.content.SharedPreferences
 import com.google.gson.Gson
+import com.sebastian.beteta.poketinder_beteta4c24.data.model.User
 
 class SharedPreferenceUtil {
     companion object{

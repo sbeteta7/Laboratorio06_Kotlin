@@ -1,4 +1,4 @@
-package com.sebastian.beteta.poketinder_beteta4c24
+package com.sebastian.beteta.poketinder_beteta4c24.ui.view
 import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.appcompat.app.AppCompatActivity

@@ -1,4 +1,4 @@
-package com.sebastian.beteta.poketinder_beteta4c24
+package com.sebastian.beteta.poketinder_beteta4c24.data.model
 
 import java.io.Serializable
 
